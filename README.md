@@ -1,7 +1,7 @@
 # 🚀 Rasheqa Chatbot API
 
 <p align="center">
-  <img src="assets/chatbot-preview.png" width="900"/>
+  <img src=https://github.com/rahmasaber123/Rasheq_CHATBOT/blob/main/assets/image.png?raw=true width="900"/>
 </p>
 AI-powered chatbot backend built with FastAPI and OpenAI, featuring session-based conversations and scalable API design.
 
