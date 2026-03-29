@@ -168,10 +168,11 @@ http://127.0.0.1:8000/docs
 
 ---
 
-## 🧑‍💻 Author
+##  Author
+ENG Rahma Saber
+AI ENGINEER
 
-Ahmed Tamer
-Cybersecurity Student & Penetration Testing Enthusiast
+
 
 ---
 
